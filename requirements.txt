@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 tensorflow
 pandas
 numpy
@@ -5,4 +6,13 @@ scikit-learn
 tensorboard
 streamlit
 matplotlib
+=======
+tensorflow
+pandas
+numpy
+scikit-learn
+tensorboard
+streamlit
+matplotlib
+>>>>>>> 69f03eb1ff6406dd8dab21427bb72f9100c311a9
 ipykernel
